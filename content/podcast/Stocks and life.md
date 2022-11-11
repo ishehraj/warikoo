@@ -1,5 +1,5 @@
 ---
-title: "My Favorite Question"
+title: "Stocks and life"
 ---
 In this episode I wanted to talk about personal finance but not make it boring so basically extend how personal finance transcends personal finance and enters into our life beyond just money. And for that I want to talk about specifically two things that are often used when somebody's going through a selection of stocks that they have to invest in. And these two matrices are called alpha and beta. Alpha is the order of growth that a stock experiences relative to the index. 
 
